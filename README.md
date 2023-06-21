@@ -1,4 +1,3 @@
-
 <div>
 <div><h1>🎇SpotLight</h1></div>
 Spot Light와 Life의 합성어로 삶을 비춰주는 빛이라는 의미가 담겨있습니다.  
@@ -15,9 +14,6 @@ Spot Light와 Life의 합성어로 삶을 비춰주는 빛이라는 의미가 �
      <img src="https://img.shields.io/badge/Java-F80000?style=flat">
   <h3>IOT</h3>
     <img src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=Arduino&logoColor=white"/>
-    <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/>
-
-  
-  
+    <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C++&logoColor=white"/>
 </div></div>
 
