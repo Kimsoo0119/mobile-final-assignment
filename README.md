@@ -4,9 +4,9 @@
 Spot Light와 Life의 합성어로 삶을 비춰주는 빛이라는 의미가 담겨있습니다.  
 <br><br>
 <div><h1>🛠프로젝트 구현 과정</h1></div>
-<A href = "[https://www.notion.so/412affbef90448b7940834c4a58f3680](https://www.notion.so/2b90d1a4e7a844e98460356f2438c967?pvs=4)" > 🖥Mobile </A>
+<A href = "https://www.notion.so/2b90d1a4e7a844e98460356f2438c967?pvs=4" > 📱Mobile </A>
 <br><br>
-<A href = "[https://www.notion.so/cac0bd44bcee4267988df0a1474e95fa](https://www.notion.so/ESP-32-2e327c42732645f4a1e39afa048f6a72?pvs=4)" > ⚙Arduino </A>
+<A href = "https://www.notion.so/ESP-32-2e327c42732645f4a1e39afa048f6a72?pvs=4" > 💡Arduino </A>
 
 <br><br>
 <div><h1>📚 TECH STACKS</h1></div>
